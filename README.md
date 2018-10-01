@@ -1,1 +1,1 @@
-Um exemplo simples que procura através de dados, definir se um cliente é bom ou não, utilizando aprendizado de máquina.
+Um exemplo extremamente simples mas que procura exemplificar de uma forma clara como funciona a classificação de dados aplicando machine learning através de um histórico de dados, onde ele consegue definir se um cliente é bom ou não.
